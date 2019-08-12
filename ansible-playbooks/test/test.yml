@@ -1,6 +1,6 @@
 ---
 - name: testbook
-  hosts:all
+  hosts: all
 
   tasks:
     - name: testrun
