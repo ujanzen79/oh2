@@ -1,0 +1,7 @@
+---
+- name: testbook
+  hosts:all
+
+  tasks:
+    - name: testrun
+      setup:
